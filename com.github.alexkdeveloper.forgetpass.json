@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/forgetpass.git",
-                    "tag": "1.0.3",
-                    "commit": "76042fbcad95e4065f38d838d1ffc0bde7bbbdd7"
+                    "tag": "1.0.4",
+                    "commit": "14043e61685ac60dab204e84561c4b1a9c442c0f"
                 }
             ]
         }
