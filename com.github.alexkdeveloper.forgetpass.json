@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.alexkdeveloper.forgetpass",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "43",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.forgetpass",
     "finish-args" : [
@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/forgetpass.git",
-                    "tag": "1.0.5",
-                    "commit": "e16e7568282524be838f13f943e6f1775d0acd9e"
+                    "tag": "1.0.6",
+                    "commit": "83ce921d15b7f389e2add492d572beb9c5730c90"
                 }
             ]
         }
